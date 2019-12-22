@@ -1,0 +1,22 @@
+How this will work:
+    - Input amount: Calculate my pay from Gross pay
+        - Tax
+        - Super 
+    - Return Net Income
+    - List out budget items in a dictionary
+    - Subtract all items from the net income. 
+
+
+DONE: 
+    - Option 1 (See earnings for the period)
+    - Option 2 (See moeny left over after )
+
+TO DO:
+    - Add new bill option (Function and module should be complete)
+        - Add to the app.py
+    - View bills
+        - Turn the json dictionary in to a DF with a total row down the botoom
+        - function needs to be created in bills.py
+        - 
+    - Create a json file that stores the hours worked and create a menu option to update the hours worked
+        - Do the same with hourly rate and tax rate
