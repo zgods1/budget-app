@@ -3,6 +3,9 @@
 ## Purpose
 >The python budget app was designed for me so that I could work out my budget before being paid as there is a week delay from when I log my hours to when I am paid, this allows me to budget ahead of time. It works out the 
 
+## Screenshot
+
+![image](https://github.com/zgods1/budget-app/blob/master/screenshot/menu.png?raw=true)
 
 ## Dependencies
 
